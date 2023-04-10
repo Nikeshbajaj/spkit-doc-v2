@@ -17,3 +17,9 @@ pydata-sphinx-theme>=0.9.0
 sphinx-design>=0.2.0
 numpydoc
 matplotlib>2
+furo
+myst-parser
+sphinx-copybutton
+sphinx-design
+sphinx-inline-tabs
+sphinx-tabs
