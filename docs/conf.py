@@ -17,6 +17,7 @@
 #import re
 import os, sys, re
 import datetime
+from typing import Any, Dict
 
 # -- Project information -----------------------------------------------------
 
@@ -100,7 +101,8 @@ pygments_style = 'sphinx'
 
 modindex_common_prefix = ['spkit.']
 
-html_theme = 'nature'
+#html_theme = 'nature'
+html_theme = "furo"
 
 #html_favicon = 'favicon.ico'
 #html_favicon = 'docs/figures/spkitlogo1.ico'
