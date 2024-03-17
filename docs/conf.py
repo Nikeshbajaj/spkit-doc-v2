@@ -102,7 +102,8 @@ pygments_style = 'sphinx'
 modindex_common_prefix = ['spkit.']
 
 #html_theme = 'nature'
-html_theme = "furo"
+#html_theme = "furo"
+html_theme = 'pydata_sphinx_theme'
 
 #html_favicon = 'favicon.ico'
 #html_favicon = 'docs/figures/spkitlogo1.ico'
